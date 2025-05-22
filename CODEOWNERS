@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @alig789git
+/src/backend/database.py      @alig789git
+/src/backend/routers/auth.py  @alig789git
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @alig789git
